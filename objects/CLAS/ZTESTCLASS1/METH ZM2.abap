@@ -4,4 +4,5 @@
     WRITE 'TEN'.
     WRITE 'tenth'.
     WRITE 'mnmn'.
+    WRITE 'nmnmn'.
   endmethod.
