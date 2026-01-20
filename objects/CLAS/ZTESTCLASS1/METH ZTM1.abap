@@ -4,4 +4,5 @@
     WRITE 'testtt'.
     WRITE 'TEST4'.
     WRITE 'test5'.
+    WRITE 'test6'.
   endmethod.
