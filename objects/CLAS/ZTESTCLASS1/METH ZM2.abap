@@ -6,4 +6,5 @@
     WRITE 'mnmn'.
     WRITE 'nmnmn'.
     WRITE 'print'.
+    WRITE 'ppp'.
   endmethod.
