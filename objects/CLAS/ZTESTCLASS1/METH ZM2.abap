@@ -1,3 +1,4 @@
   method ZM2.
-    WRITE 'TESTI1NG'.
+    WRITE 'TESTING'.
+    WRITE 'testing1'.
   endmethod.
