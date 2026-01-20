@@ -2,4 +2,6 @@
     WRITE 'TESTING'.
     WRITE 'testing1'.
     WRITE 'TEN'.
+    WRITE 'tenth'.
+    WRITE 'mnmn'.
   endmethod.
