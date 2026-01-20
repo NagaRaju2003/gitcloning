@@ -6,4 +6,5 @@
     WRITE 'test5'.
     WRITE 'test6'.
     WRITE 'tt2'.
+    WRITE 'ttttl'.
   endmethod.
