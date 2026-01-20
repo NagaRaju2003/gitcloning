@@ -3,4 +3,5 @@
     WRITE 'TESTING 345'.
     WRITE 'testtt'.
     WRITE 'TEST4'.
+    WRITE 'test5'.
   endmethod.
