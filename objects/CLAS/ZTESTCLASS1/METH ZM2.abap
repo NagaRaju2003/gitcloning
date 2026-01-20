@@ -5,4 +5,5 @@
     WRITE 'tenth'.
     WRITE 'mnmn'.
     WRITE 'nmnmn'.
+    WRITE 'print'.
   endmethod.
