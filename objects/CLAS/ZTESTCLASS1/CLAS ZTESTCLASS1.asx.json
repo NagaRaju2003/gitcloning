@@ -83,6 +83,12 @@
   [
    {
     "CLSNAME":"ZTESTCLASS1",
+    "CMPNAME":"ZDEPENMETHOD",
+    "CMPTYPE":1,
+    "MTDTYPE":0
+   },
+   {
+    "CLSNAME":"ZTESTCLASS1",
     "CMPNAME":"ZM2",
     "CMPTYPE":1,
     "MTDTYPE":0
@@ -99,6 +105,63 @@
   "table":"SEOCOMPODF",
   "data":
   [
+   {
+    "CLSNAME":"ZTESTCLASS1",
+    "CMPNAME":"ZDEPENMETHOD",
+    "VERSION":1,
+    "ALIAS":"",
+    "REDEFIN":"",
+    "EXPOSURE":0,
+    "STATE":1,
+    "EDITORDER":0,
+    "LOCKED":"",
+    "DISPID":0,
+    "R3RELEASE":"757",
+    "AUTHOR":"",
+    "CREATEDON":"2026-01-23",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "MTDDECLTYP":0,
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "DSRNOTEOM":"",
+    "EDTX":"",
+    "MTDNEWEXC":"",
+    "MTDREPLACE":"",
+    "MTDOPTNL":"",
+    "MTDAMDPRDONLY":"",
+    "MTDAMDPCDSCLNT":"",
+    "ATTDECLTYP":0,
+    "ATTDYNAMIC":"",
+    "ATTGETMTD":"",
+    "ATTSETMTD":"",
+    "ATTRDONLY":"",
+    "ATTVALUE":"",
+    "ATTPERSIST":"",
+    "ATTBUSOBJ":"",
+    "ATTKEYFLD":"",
+    "ATTEXPVIRT":0,
+    "EVTDECLTYP":0,
+    "TYPDUMMY":"",
+    "TYPTYPE":0,
+    "TYPE":"",
+    "TABLEOF":"",
+    "SRCROW1":0,
+    "SRCCOLUMN1":0,
+    "SRCROW2":0,
+    "SRCCOLUMN2":0,
+    "REFCLSNAME":"",
+    "REFINTNAME":"",
+    "REFCMPNAME":"",
+    "BCMTDINST":"",
+    "BCMTDCAT":0,
+    "BCMTDDIA":"",
+    "BCMTDCOM":"",
+    "BCMTDSYN":0,
+    "BCEVTCAT":0,
+    "TYPESRC_LENG":0,
+    "TYPESRC":""
+   },
    {
     "CLSNAME":"ZTESTCLASS1",
     "CMPNAME":"ZM2",
@@ -221,6 +284,12 @@
   [
    {
     "CLSNAME":"ZTESTCLASS1",
+    "CMPNAME":"ZDEPENMETHOD",
+    "LANGU":"E",
+    "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"ZTESTCLASS1",
     "CMPNAME":"ZM2",
     "LANGU":"E",
     "DESCRIPT":""
@@ -283,6 +352,12 @@
     "CLASSNAME":"ZTESTCLASS1",
     "METHODINDX":2,
     "METHODNAME":"ZM2",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZTESTCLASS1",
+    "METHODINDX":3,
+    "METHODNAME":"ZDEPENMETHOD",
     "FLAGS":0
    }
   ]
@@ -359,6 +434,17 @@
    },
    {
     "NAME":"ZTESTCLASS1===================CM002",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZTESTCLASS1===================CM003",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
