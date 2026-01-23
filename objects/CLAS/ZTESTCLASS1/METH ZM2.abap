@@ -7,4 +7,5 @@
     WRITE 'nmnmn'.
     WRITE 'print'.
     WRITE 'ppp'.
+    WRITE 'mim'.
   endmethod.
